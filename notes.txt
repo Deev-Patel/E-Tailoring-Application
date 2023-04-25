@@ -1,0 +1,6 @@
+1. stateless widget is used to just create UI, for functionalities use statefull widget
+2. Container gives black background
+3. Scaffold give white background
+4. in scaffold u cannot have background image so use container as body
+5. height and width is kept double.infinity to take up full space of mobile screen
+6. singlechildscrollview is used inside scaffold to have only one child
